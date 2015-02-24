@@ -1,0 +1,24 @@
+html, body {
+  background: black;
+  color: white;
+  text-align: center;
+  width: 100%;
+  height: 100vh;
+  min-height: 100vh;
+}
+
+#wrapper {
+  height: 100%;
+  width: 100%;
+}
+
+#sprite3 {
+  width: 108px;
+  height: 100px;
+  background: url(../img/translator.jpg) -31px -247px;
+}
+#sprite2 {
+  width: 108px;
+  height: 100px;
+  background: url(../img/translator.jpg) -1225px -247px;
+}
